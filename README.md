@@ -1,2 +1,2 @@
 # EES
-Projeto referente à UC Elementos de Engenharia de Sistemas (2020)
+Projeto referente à UC Elementos de Engenharia de Sistemas no ano letivo 2020/2021.

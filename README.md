@@ -8,10 +8,15 @@ Vídeo do modelo a correr: https://youtu.be/8txx8YCxHnQ
 </br>
 </br>
 Equipa de Trabalho:
-Ana João da Rocha Alves, n.º a95128
-Flávia Alexandra da Silva Araújo, n. º a96587
-Hugo Miguel Ferreira Novais, n. º a96267
-Sofia Manuela Rocha Leite, n. º a95022
+</br>
+Ana João da Rocha Alves, nºa95128
+</br>
+Flávia Alexandra da Silva Araújo, nºa96587
+</br>
+Hugo Miguel Ferreira Novais, nºa96267
+</br>
+Sofia Manuela Rocha Leite, nºa95022
+</br>
 </br>
 </br>
 Classificação: 17
